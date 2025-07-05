@@ -1,0 +1,20 @@
+{
+  "booking": [],
+  "lapangan": [
+    {
+      "nama": "Lapangan Futsal A - Komplek A",
+      "lokasi": "Bukit Plaza",
+      "id": "1"
+    },
+    {
+      "nama": "Lapangan Basket B - Komplek B",
+      "lokasi": "Bukit Plaza",
+      "id": "2"
+    },
+    {
+      "nama": "Lapangan Futsal C - Komplek C",
+      "lokasi": "Bukit Plaza",
+      "id": "3"
+    }
+  ]
+}
